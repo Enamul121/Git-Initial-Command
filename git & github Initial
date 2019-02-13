@@ -1,4 +1,20 @@
 
+To see COnfiguration :
+
+                       git config --list
+
+OR 
+   Cofigure Global :
+             
+                        git config --global user.name "Enamul121"
+                        git config --global user.email "enamul172@gmail.com" 
+
+
+  Cofigure Global :
+          
+                        git config user.name "Enamul121"
+                        git config user.email "enamul172@gmail.com"
+
 
 
 
