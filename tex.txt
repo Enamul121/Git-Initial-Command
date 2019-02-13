@@ -1,1 +1,6 @@
 Hello ENam FOr MMPP
+
+
+কমিট করাঃ
+          git commit -m "write your commit here..."
+
