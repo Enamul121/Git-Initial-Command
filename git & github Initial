@@ -84,6 +84,9 @@ Now Upload Successful
 ----------------------------------------------------------------------
 
 
+Remove Command : Git init -> sudo rm -rf .git
+
+
 
 
 
